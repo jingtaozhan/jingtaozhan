@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋  This is Jingtao Zhan.
+
+- 🌱 I’m a second-year PhD student at [Tsinghua IR Group](http://www.thuir.cn/) supervised by Prof. Shaoping Ma and [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu).
+- 🔭 My research lies in Information Retrieval and Web Search. I currently focus on Dense Retrieval with a wide interest in improving its effectiveness, efficiency, and interpretability.
+- 📫 How to reach me: jingtaozhan@gmail.com.
+
+<a href="https://jingtaozhan.github.io/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jingtaozhan&count_private=true&show_icons=true" />
+</a>  
 
 <!--
 **jingtaozhan/jingtaozhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
